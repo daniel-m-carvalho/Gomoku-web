@@ -26,3 +26,10 @@ The project is organized in 2 phases:
   - [HTTP API](./docs/Gomoku-Api-doc.md) - contains the HTTP API documentation of the application;
 - Phase 2 - Development of the Web User Interface, meaning the frontend of the application;
   - [Frontend Documentation](./code/js/README.md) - contains the frontend documentation of the application;
+
+---
+
+Instituto Superior de Engenharia de Lisboa<br>
+BSc in Computer Science and Engineering<br>
+Web Applications Development<br>
+Winter Semester of 2023/2024
